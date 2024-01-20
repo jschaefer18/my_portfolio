@@ -1,0 +1,11 @@
+---
+title: "Computer Science Resume"
+subtitle: "-Josh Schaefer"
+# use quarto markdown to 
+---
+
+# Projects:
+
+- [Projects Repository](https://github.com/jschaefer18/Projects)
+
+

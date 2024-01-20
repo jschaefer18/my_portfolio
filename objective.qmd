@@ -1,0 +1,10 @@
+---
+title: "Data Science Portflio"
+subtitle: "-Josh Schaefer"
+# use quarto markdown to 
+---
+
+# Objective Statement:
+"As a dedicated computer science student, I bring a wealth of experience and a proven track record as a highly efficient team member in dynamic and fast-paced environments. My academic journey has equipped me with a strong foundation in computer science, allowing me to navigate complex challenges with confidence. I am passionate about continuous learning and possess a natural aptitude for assimilating new knowledge, which I seamlessly apply to deliver results with skill and efficiency. My commitment to excellence, coupled with a proactive approach to problem-solving, positions me as a valuable asset in contributing to innovative and collaborative projects. I am enthusiastic about embracing new challenges, collaborating with diverse teams, and further honing my skills to make meaningful contributions to the ever-evolving field of computer science."
+
+

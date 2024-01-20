@@ -5,7 +5,7 @@ website:
   title: "Josh Schaefer Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: https://github.com/jschaefer18/my_portfolio.git
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
@@ -21,18 +21,18 @@ website:
     right:
       - text: "Home"
         file: index.qmd
+      - text: "Objective Statement"
+        file: objective.qmd
       - text: "Education"
         file: education.qmd
       - text: "Experience"
         file: experience.qmd
       - text: "Skills & Abilities"
         file: skills.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Interests"
+        file: interests.qmd
       
   # sidebar:
   #   - title: "Match_Name_in_Navbar_Above"

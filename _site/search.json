@@ -2,14 +2,14 @@
   {
     "objectID": "competition.html",
     "href": "competition.html",
-    "title": "Computer Science Resume",
+    "title": "Data Science Portflio",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Competition:\n\n\n\n\n Back to top"
   },
   {
     "objectID": "competition.html#title-2-header",
     "href": "competition.html#title-2-header",
-    "title": "Computer Science Resume",
+    "title": "Data Science Portflio",
     "section": "",
     "text": "MarkDown Basics"
   },
@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Data Science Portflio",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Information:\n\nGmail: joshschaefer@gmail.com\nLinkedIn: Joshua Schaefer\nPhone Number: 608-294-8979\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html#title-2-header",
@@ -100,14 +100,14 @@
   {
     "objectID": "education.html",
     "href": "education.html",
-    "title": "Computer Science Resume",
+    "title": "Data Science Portflio",
     "section": "",
     "text": "Education:\nHigh School Diploma | 2019-2023 | Monona Grove High School\nBachelor’s Degree in CS | 2023-Present | Brigham Young University-Idaho\n\nAP Computer Science\nAP Statistics\nProgramming with Functions- CSE111\nIntroduction to Databases- CIT111\nData Science Programming- DS250\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
-    "title": "Computer Science Resume",
+    "title": "Data Science Portflio",
     "section": "",
     "text": "Experience:\nWebsite Maintenance | Mistletoe Memories | January 2020 - Present - Collected and responded to user feedback through iterative improvements to site structure and content. - Tested and debugged site updates and prevented functional flaws from impacting public visitors. - Troubleshoot issues with websites and fixed scripting and use issues.\nTeam Member | Jimmy Johns | January 2021 - December 2021 - Contributed to team success by completing jobs quickly and accurately. - Kept work areas clean, organized and safe to promote efficiency and team safety. - Operated register to process payments and collect cash payments for order totals. - Learned all required tasks quickly to maximize performance\n\n\n\n\n Back to top"
   },
@@ -124,5 +124,40 @@
     "title": "Computer Science Resume",
     "section": "",
     "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Computer Science Resume",
+    "section": "",
+    "text": "Projects:\n\nProjects Repository\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Data Science Portflio",
+    "section": "",
+    "text": "Information:\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "info.html#title-2-header",
+    "href": "info.html#title-2-header",
+    "title": "Data Science Portflio",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "objective.html",
+    "href": "objective.html",
+    "title": "Data Science Portflio",
+    "section": "",
+    "text": "Objective Statement:\n“As a dedicated computer science student, I bring a wealth of experience and a proven track record as a highly efficient team member in dynamic and fast-paced environments. My academic journey has equipped me with a strong foundation in computer science, allowing me to navigate complex challenges with confidence. I am passionate about continuous learning and possess a natural aptitude for assimilating new knowledge, which I seamlessly apply to deliver results with skill and efficiency. My commitment to excellence, coupled with a proactive approach to problem-solving, positions me as a valuable asset in contributing to innovative and collaborative projects. I am enthusiastic about embracing new challenges, collaborating with diverse teams, and further honing my skills to make meaningful contributions to the ever-evolving field of computer science.”\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Data Science Portflio",
+    "section": "",
+    "text": "Interests:\n\nData Science:\n\nExploring and analyzing datasets to derive meaningful insights.\nMachine learning algorithms and predictive modeling.\nData visualization techniques for effective communication of findings.\n\nProgramming and Software Development:\n\nWriting clean and efficient code.\nExploring new programming languages and frameworks.\nBuilding innovative applications and solutions.\n\nSports:\n\nPlaying and watching various sports, fostering a healthy and active lifestyle.\nStatistical analysis of sports data for performance optimization.\nExploring the intersection of technology and sports analytics.\n\nTechnology Trends:\n\nStaying updated on the latest advancements in computer science and technology.\nExploring emerging trends such as artificial intelligence and blockchain.\n\nContinuous Learning:\n\nEngaging in online courses, workshops, and self-directed learning.\nAttending conferences and meetups to network with industry professionals.\n\nProblem Solving:\n\nEnjoying the challenge of solving complex problems and puzzles.\nParticipating in coding competitions and hackathons.\n\nGaming:\n\nExploring and playing video games for entertainment and cognitive engagement.\nInterest in game development and interactive technologies.\n\nTravel and Exploration:\n\nExploring new places, cultures, and cuisines.\nCombining technology and travel for innovative experiences.\n\n\n\n\n\n\n Back to top"
   }
 ]
