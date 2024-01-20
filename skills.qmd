@@ -1,0 +1,17 @@
+---
+title: "Computer Science Resume"
+subtitle: "-Josh Schaefer"
+# use quarto markdown to 
+---
+
+# Skills & Abilities:
+**Critcal Thinking**<br>
+- Thinking critically and rationally to understand the connection between logic and ideas.<br>
+**Programming**<br>
+- Beginner in Java and Intermediate in Python. Around 3 years of experience.<br>
+**Teamwork**<br>
+- Dedicated, reliable, and contributing team member to small groups and big teams.<br>
+**Communication**<br>
+- Not afraid of voicing my opinion on topics and asking questions to understand better.
+
+

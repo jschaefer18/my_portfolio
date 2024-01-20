@@ -1,0 +1,17 @@
+---
+title: "Computer Science Resume"
+subtitle: "-Josh Schaefer"
+# use quarto markdown to 
+---
+
+# Education:
+**High School Diploma | 2019-2023 | Monona Grove High School**  
+**Bachelor's Degree in CS | 2023-Present | Brigham Young University-Idaho**
+
+- AP Computer Science
+- AP Statistics
+- Programming with Functions- CSE111
+- Introduction to Databases- CIT111
+- Data Science Programming- DS250
+
+

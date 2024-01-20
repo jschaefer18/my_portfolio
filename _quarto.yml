@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Josh Schaefer Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/your_url
@@ -10,10 +10,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Josh Schaefer 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/joshua-schaefer-a534b1284/
 
   navbar:
     background: primary
@@ -21,12 +21,12 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
+      - text: "Education"
+        file: education.qmd
+      - text: "Experience"
+        file: experience.qmd
+      - text: "Skills & Abilities"
+        file: skills.qmd
       - text: "Machine Learning"
         file: ml.qmd
       - text: "Full Stack"

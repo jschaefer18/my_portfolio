@@ -1,0 +1,23 @@
+---
+title: "Computer Science Resume"
+subtitle: "-Josh Schaefer"
+# use quarto markdown to 
+---
+
+# Experience:
+**Website Maintenance | Mistletoe Memories | January 2020 - Present**<br>
+- Collected and responded to user feedback through iterative improvements to site structure and content.<br>
+- Tested and debugged site updates and prevented functional flaws from impacting public visitors.<br>
+- Troubleshoot issues with websites and fixed scripting and use issues.
+
+**Team Member | Jimmy Johns | January 2021 - December 2021**<br>
+- Contributed to team success by completing jobs quickly and accurately.<br>
+- Kept work areas clean, organized and safe to promote efficiency and team safety.<br>
+- Operated register to process payments and collect cash payments for order totals.<br>
+- Learned all required tasks quickly to maximize performance
+
+
+
+
+
+
